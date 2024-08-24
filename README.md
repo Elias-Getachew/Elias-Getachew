@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 💬 Ask me about **react , laravel**
+- 💬 Ask me about **laravel , react**
 
 - 📫 How to reach me **msalegt@gmail.com**
 
